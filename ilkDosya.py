@@ -1,0 +1,1 @@
+print("İlk kodumu yazdım")
